@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:background="@drawable/fondo_negro"
+    tools:context="com.interfacesmoviles.carolinaperez.JuegoActivity">
+
+    <!-- TITULO DE LA CATEGORIA -->
+    <LinearLayout
+         android:orientation="vertical"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:background="@drawable/item_lista"
+         android:gravity="center_horizontal"
+         android:padding="5dp"
+         android:layout_marginBottom="10dp">
+
+         <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:textSize="25dp"
+              android:textColor="#FFFFFF"
+              android:text="CATEGORIAS"
+              android:id="@+id/textCategoriaJuego"
+              android:padding="10dp"/>
+    </LinearLayout>
+
+
+    <!-- CABECERA -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cabeceraJuego"
+        android:paddingBottom="10dp"
+        android:layout_gravity="center_horizontal">
+
+        <!-- TIEMPO -->
+        <RelativeLayout
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:background="@drawable/item_lista"
+            android:layout_marginRight="20dp"
+            android:id="@+id/layoutTiempo">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:background="@drawable/clock2"
+                    android:layout_marginRight="10dp"/>
+
+                <TextView
+                    android:id="@+id/reloj"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="25dp"
+                    android:text=""/>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <!-- PUNTOS -->
+        <RelativeLayout
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:background="@drawable/item_lista"
+            android:layout_marginRight="20dp"
+            android:id="@+id/layoutPuntos">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:background="@drawable/puntos"
+                    android:layout_marginRight="10dp"/>
+
+                <TextView
+                    android:id="@+id/puntuacion"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:textSize="25dp"
+                    android:text="0"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <!-- VIBRACION -->
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="@drawable/item_lista"
+            android:layout_marginRight="20dp">
+
+             <Button
+                 android:layout_width="30dp"
+                 android:layout_height="30dp"
+                 android:background="@drawable/vibracion"
+                 android:layout_centerInParent="true"
+                 android:id="@+id/buttonVibracion"/>
+        </RelativeLayout>
+
+        <!-- SONIDO -->
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="@drawable/item_lista"
+            android:layout_marginRight="20dp">
+
+            <Button
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/sound"
+                android:layout_centerInParent="true"
+                android:id="@+id/buttonSound"/>
+        </RelativeLayout>
+
+        <!-- SALIDA -->
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="@drawable/item_lista"
+            android:layout_marginRight="20dp">
+
+            <Button
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/exit"
+                android:layout_centerInParent="true"
+                android:id="@+id/buttonExitJuego"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+
+
+    <!-- CUERPO -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"
+        android:id="@+id/bordePregunta"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!-- PREGUNTA -->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/item_lista">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:id="@+id/textViewPregunta"
+                    android:textColor="#FFFFFF"
+                    android:textSize="20dp"
+                    android:layout_centerInParent="true" />
+            </RelativeLayout>
+
+            <!-- RESPUESTAS -->
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/borde_respuestas">
+
+               <!-- IZQUIERDA -->
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/frameIzquierdo"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:padding="10dp"
+                    android:background="@drawable/item_lista">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#FFFFFF"
+                        android:textSize="15dp"
+                        android:text=""
+                        android:id="@+id/respuestaIzquierda"
+                        android:layout_centerInParent="true" />
+                </RelativeLayout>
+
+                <!-- DERECHA -->
+                <RelativeLayout
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:layout_weight="1"
+                     android:id="@+id/frameDerecho"
+                    android:padding="10dp"
+                     android:background="@drawable/item_lista">
+
+                     <TextView
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:textColor="#FFFFFF"
+                          android:textSize="15dp"
+                          android:layout_centerInParent="true"
+                          android:text=""
+                          android:id="@+id/respuestaDerecha" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

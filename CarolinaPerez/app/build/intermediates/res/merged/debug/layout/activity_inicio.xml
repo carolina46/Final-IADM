@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="5dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="50dp"
+    android:background="@drawable/fondo_negro"
+    tools:context="com.interfacesmoviles.carolinaperez.InicioActivity">
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:background="@drawable/pizarra"
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        android:id="@+id/logoInicio">
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+
+        <!--CREDITOS -->
+        <RelativeLayout
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/item_lista"
+            android:padding="10dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="30dp"
+            android:id="@+id/creditosLayout">
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/info"
+                android:layout_centerInParent="true"
+                android:id="@+id/creditos"/>
+        </RelativeLayout>
+
+        <!-- JUGAR -->
+        <RelativeLayout
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/item_lista"
+            android:padding="10dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="30dp"
+            android:id="@+id/jugarLayout">
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/game"
+                android:layout_centerInParent="true"
+                android:id="@+id/jugar"/>
+        </RelativeLayout>
+
+        <!-- INstrucciones -->
+        <RelativeLayout
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:padding="10dp"
+            android:background="@drawable/item_lista"
+            android:layout_gravity="center"
+            android:id="@+id/instruccionesLayout">
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/instrucciones2"
+                android:layout_centerInParent="true"
+                android:id="@+id/instrucciones"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
+
+</RelativeLayout>

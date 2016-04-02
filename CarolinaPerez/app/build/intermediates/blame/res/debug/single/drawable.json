@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\borde_respuestas.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\borde_respuestas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select_respuesta.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\select_respuesta.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next_pregunta.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\next_pregunta.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ranking.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\ranking.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\sound.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\avatar.jpg",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\avatar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\instrucciones1.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\instrucciones1.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_with_shadow.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\bottom_with_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_with_shadow.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\background_with_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_sound.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\no_sound.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ranking_instruccion.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\ranking_instruccion.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\game.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_vibracion.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\no_vibracion.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iniciar_juego.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\iniciar_juego.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_categoria.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\item_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ranking_instruccion2.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\ranking_instruccion2.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_blanco.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\list_item_blanco.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\creditos.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\creditos.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fotografia.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\fotografia.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pizarra.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\pizarra.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cuero_negro.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\cuero_negro.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\borde.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\borde.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corcho.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\corcho.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vibracion.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\vibracion.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_lista.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\item_lista.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo_negro.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\fondo_negro.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\people.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\people.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fotografia2.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\fotografia2.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\puntos.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\puntos.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cuero.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\cuero.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fondo.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\fondo.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camara.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\camara.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\instrucciones2.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\instrucciones2.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\correcto.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\correcto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\press.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\press.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incorrecto.xml",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\incorrecto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\otra_vez.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\otra_vez.png"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock2.png",
+        "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\drawable\\clock2.png"
+    }
+]

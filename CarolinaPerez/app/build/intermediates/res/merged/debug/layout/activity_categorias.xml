@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/fondo_negro"
+    android:paddingTop="20dp"
+    android:paddingBottom="30dp"
+    tools:context="com.interfacesmoviles.carolinaperez.CategoriasActivity"
+    android:orientation="vertical">
+
+    <!--CABECERA-->
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/item_lista"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="40dp"
+                android:textColor="#FFFFFF"
+                android:text="CATEGORIAS"
+                android:id="@+id/textCategorias"
+                android:padding="10dp"
+                />
+    </LinearLayout>
+
+
+    <!--CATEGORIAS-->
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:paddingBottom="30dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_centerInParent="true"
+                >
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="63dp"
+                android:padding="10dp"
+                android:text="Matemática"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:id="@+id/buttonMatematica"
+                android:textSize="20dp"
+                android:background="@drawable/item_categoria"
+                android:layout_marginBottom="10dp"/>
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="63dp"
+                android:padding="10dp"
+                android:text="Naturales"
+                android:textAlignment="center"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:id="@+id/buttonNaturales"
+                android:background="@drawable/item_categoria"
+                android:layout_marginBottom="10dp"/>
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="63dp"
+                android:padding="10dp"
+                android:textColor="#FFFFFF"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:text="Lengua"
+                android:id="@+id/buttonLengua"
+                android:background="@drawable/item_categoria"
+                android:layout_marginBottom="10dp"/>
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="63dp"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:padding="10dp"
+                android:textAlignment="center"
+                android:text="Mix"
+                android:id="@+id/buttonMix"
+                android:background="@drawable/item_categoria"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+
+        <!--BOTONES-->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:paddingTop="20dp">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/item_lista"
+                android:layout_gravity="center"
+                android:padding="10dp"
+                android:layout_marginRight="20dp">
+
+                <Button
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/ranking"
+                    android:id="@+id/buttonRanking"/>
+            </FrameLayout>
+
+
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/item_lista"
+                android:layout_gravity="center"
+                android:padding="10dp">
+
+                <Button
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/exit"
+                    android:id="@+id/buttonExitCategoria" />
+            </FrameLayout>
+        </LinearLayout>
+
+
+</LinearLayout>

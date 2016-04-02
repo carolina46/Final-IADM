@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- CABECERA -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_weight="1"
+        android:background="@drawable/fondo_negro"
+        android:padding="20dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="30dp"
+            android:background="@drawable/item_categoria"
+            android:layout_centerInParent="true">
+
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="80dp"
+                android:id="@+id/fotoJugadorPuntajes"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="20dp"
+                android:textColor="#FFFFFF"
+                android:id="@+id/nombreJugadorPuntajes"
+                android:layout_gravity="center"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <!-- PUNTAJE -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="20dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PUNTACIONES MÁXIMAS"
+                android:textSize="20dp"
+                android:textColor="#000"
+                android:id="@+id/maximaJugadorPuntajes"
+                android:layout_gravity="center"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dip"
+                android:background="#000000"
+                android:layout_marginBottom="20dp"/>
+
+
+
+
+            <!-- MATEMATICA-->
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="10dp">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_centerInParent="true">
+
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:text="Matemática"
+                        android:textSize="20dp"
+                        android:textColor="#000"
+                        android:id="@+id/puntuacionMateTitulo"
+                        android:layout_marginRight="30dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textSize="20dp"
+                        android:textColor="#000"
+                        android:id="@+id/puntuacionMate"/>
+                </LinearLayout>
+            </RelativeLayout>
+
+
+
+            <!-- NATURALES-->
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="10dp">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_centerInParent="true">
+
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:text="Naturales"
+                        android:textSize="20dp"
+                        android:textColor="#000"
+                        android:id="@+id/puntuacionNatuTitulo"
+                        android:layout_marginRight="30dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textSize="20dp"
+                        android:textColor="#000"
+                        android:id="@+id/puntuacionNatu"/>
+                </LinearLayout>
+            </RelativeLayout>
+
+
+            <!-- LENGUA-->
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="10dp">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="20dp"
+                    android:layout_centerInParent="true">
+
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:text="Lengua"
+                        android:textSize="20dp"
+                        android:textColor="#000"
+                        android:id="@+id/puntuacionLenTitulo"
+                        android:layout_marginRight="30dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textSize="20dp"
+                        android:textColor="#000"
+                        android:id="@+id/puntuacionLen"/>
+                </LinearLayout>
+            </RelativeLayout>
+
+
+
+            <!-- MIX-->
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="10dp">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="30dp"
+                    android:layout_centerInParent="true">
+
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:text="Mix"
+                        android:textSize="20dp"
+                        android:textColor="#000"
+                        android:id="@+id/puntuacionMixTitulo"
+                        android:layout_marginRight="30dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textSize="20dp"
+                        android:textColor="#000"
+                        android:id="@+id/puntuacionMix"/>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+
+    <!-- BOTON SALIR -->
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/item_lista"
+        android:layout_gravity="center">
+
+        <Button
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/exit"
+            android:layout_centerInParent="true"
+            android:id="@+id/exitFinJuego"/>
+    </RelativeLayout>
+</LinearLayout>
