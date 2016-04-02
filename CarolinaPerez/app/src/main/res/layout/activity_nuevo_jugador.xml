@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.interfacesmoviles.carolinaperez.NuevoJugador"
+    android:background="@drawable/fondo_negro"
+    android:paddingTop="20dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/item_lista"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/linearLayout">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="35dp"
+            android:textColor="#FFFFFF"
+            android:text="NUEVO JUGADOR"
+            android:id="@+id/textNuevoJugador"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"/>
+    </LinearLayout>
+
+    <!--DATOS JUGADOR-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true"
+            android:background="@drawable/back"
+            android:layout_margin="10dp"
+            android:padding="25dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_horizontal" >
+
+            <ImageView
+                android:layout_width="180dp"
+                android:layout_height="180dp"
+                android:padding="10dp"
+                android:id="@+id/imageViewFoto"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:id="@+id/buttonTomarFoto"
+                android:paddingLeft="20dp"
+                android:background="@drawable/camara"
+                android:padding="20dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:padding="10dp"
+            android:layout_marginTop="30dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="NOMBRE"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:paddingRight="20dp"
+                android:id="@+id/textNombreJugador" />
+
+            <EditText
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:text=""
+                android:maxLength="10"
+                android:ems="10"
+                android:gravity="center_horizontal"
+                android:textColor="#FFFFFF"
+                android:id="@+id/editNombreJugador"
+            />
+        </LinearLayout>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+    <!--BOTONES FINALES -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="20dp">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="GUARDAR"
+            android:padding="20dp"
+            android:textSize="20dp"
+            android:id="@+id/BotonGuardarJugador"
+            android:textColor="#ffffff"
+            android:background="@drawable/item_lista"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_below="@+id/linearLayout"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="CANCELAR"
+            android:padding="20dp"
+            android:textSize="20dp"
+            android:id="@+id/BotonCancelarJugador"
+            android:textColor="#ffffff"
+            android:background="@drawable/item_lista"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_below="@+id/linearLayout"
+            android:layout_alignParentStart="true" />
+    </LinearLayout>
+</LinearLayout>

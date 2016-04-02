@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp"
+    tools:context="com.interfacesmoviles.carolinaperez.MainActivity"
+    android:background="@drawable/fondo_negro">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/item_lista"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="40dp"
+            android:textColor="#FFFFFF"
+            android:text="JUGADORES"
+            android:id="@+id/textJugadores"
+            android:padding="10dp"
+           />
+    </LinearLayout>
+
+
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numColumns="2"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:verticalSpacing="20dp"
+        android:scrollbars="vertical"
+        android:layout_weight="1"
+        android:id="@+id/gridJugadores"
+        android:layout_gravity="center"/>
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_gravity="center">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        android:text="Nuevo Jugador"
+        android:padding="20dp"
+        android:textSize="20dp"
+        android:id="@+id/BotonNuevoJugador"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/item_lista"/>
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/item_lista"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:layout_marginLeft="10dp">
+
+        <Button
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:background="@drawable/exit"
+            android:id="@+id/buttonExitMain" />
+    </FrameLayout>
+
+</LinearLayout>
+
+
+
+
+</LinearLayout>

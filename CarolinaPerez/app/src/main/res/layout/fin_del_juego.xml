@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#000000"
+    android:paddingRight="5dp"
+    android:paddingBottom="5dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/fondo_negro"
+        android:padding="20dp"
+        android:orientation="vertical">
+
+        <!-- CABECERA -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/item_lista">
+
+            <TextView
+                android:layout_centerInParent="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FIN DEL JUEGO"
+                android:textSize="30dp"
+                android:textColor="#FFFFFF"
+                android:id="@+id/tituloFinJuego" />
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+
+
+
+        <!-- PUNTOS -->
+        <RelativeLayout
+            android:layout_width="250dp"
+            android:layout_height="70dp"
+            android:background="@drawable/item_categoria"
+            android:layout_marginBottom="30dp"
+            android:layout_gravity="center">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/puntos"
+                    android:layout_marginRight="20dp"/>
+
+                <TextView
+                    android:id="@+id/puntuacionFinJuego"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FFFFFF"
+                    android:layout_marginTop="10dp"
+                    android:textSize="30dp"
+                    android:text="0"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+
+    <!-- BOTON VOLVER A JUGAR -->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+            <RelativeLayout
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/item_lista"
+                android:layout_marginRight="30dp">
+
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/otra_vez"
+                    android:layout_centerInParent="true"
+                    android:id="@+id/otaVezFinJuego"/>
+            </RelativeLayout>
+
+    <!-- BOTON SALIR -->
+            <RelativeLayout
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/item_lista"
+                android:layout_marginRight="20dp">
+
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/exit"
+                    android:layout_centerInParent="true"
+                    android:id="@+id/exitFinJuego"/>
+            </RelativeLayout>
+        </LinearLayout>
+        </LinearLayout>
+        </RelativeLayout>
+  </LinearLayout>
+</LinearLayout>
