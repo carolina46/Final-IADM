@@ -1,0 +1,21 @@
+						VUELTA AL COLEGIO
+-------------------------------------------------------------------------------
+
+Requerimientos:
+	Es necesario disponer de un dispositivo con sistema 
+	operativo Android, con al menos la version 4.1.
+	
+Instalación:
+	El Juego es un archivo con extensión .apk, con el nombre
+	VueltaAlColegio;
+
+	Para instalarlo debemos transferirlo al dispositivo. Luego 
+	debemos indicarle a Android que permita la instalación, para
+	ello nos desplazamos hasta 
+	"Ajustes>Seguridad>Orígenes desconocidos" y activamos la opción.	
+	Finalmente abrimos un administrador de archivos, buscamos el apk  
+	en la carpeta en la cual lo guardamos y lo ejecutamos.
+
+Ejecución:
+	Simplemente seleccionar, de entre las aplicaciones del 
+	dispositivo, aquella que se llama CarolinaPerez.

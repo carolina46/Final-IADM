@@ -95,8 +95,6 @@ public class JuegoActivity extends Activity implements SensorEventListener, OnCl
         TF2 = Typeface.createFromAsset(getAssets(),"fonts/TitaniaR.ttf");
         //ORIENTACOIN PANTALLA
         this.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_REVERSE_LANDSCAPE);
-        //VIBRACION
-        v = (Vibrator) getSystemService(VIBRATOR_SERVICE);
         //RELOJ
         textViewReloj=(TextView)findViewById(R.id.reloj);
         textViewReloj.setTypeface(TF);
@@ -154,6 +152,9 @@ public class JuegoActivity extends Activity implements SensorEventListener, OnCl
         if(! jugador.isHabilitarSonido()){
             buttonSonido.setBackgroundResource(R.drawable.no_sound);
         }
+
+        //VIBRACION
+        v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
         buttonVibracion=(Button)findViewById(R.id.buttonVibracion);
         buttonVibracion.setOnClickListener(this);
         buttonVibracion.getLayoutParams().height=(width*1/20);

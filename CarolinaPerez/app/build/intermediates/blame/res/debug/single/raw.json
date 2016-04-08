@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Carolina\\Desktop\\Final-IADM\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\raw\\error.mp3",
+        "source": "C:\\Users\\Carolina\\Desktop\\Final-IADM\\CarolinaPerez\\app\\src\\main\\res\\raw\\error.mp3"
+    },
+    {
         "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ok.wav",
         "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\raw\\ok.wav"
     },
@@ -8,11 +12,23 @@
         "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\raw\\error.mp3"
     },
     {
+        "merged": "C:\\Users\\Carolina\\Desktop\\Final-IADM\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ok.wav",
+        "source": "C:\\Users\\Carolina\\Desktop\\Final-IADM\\CarolinaPerez\\app\\src\\main\\res\\raw\\ok.wav"
+    },
+    {
         "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ooop.wma",
         "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\raw\\ooop.wma"
     },
     {
+        "merged": "C:\\Users\\Carolina\\Desktop\\Final-IADM\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bo.wav",
+        "source": "C:\\Users\\Carolina\\Desktop\\Final-IADM\\CarolinaPerez\\app\\src\\main\\res\\raw\\bo.wav"
+    },
+    {
         "merged": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bo.wav",
         "source": "C:\\Users\\Carolina\\Downloads\\CarolinaPerez\\app\\src\\main\\res\\raw\\bo.wav"
+    },
+    {
+        "merged": "C:\\Users\\Carolina\\Desktop\\Final-IADM\\CarolinaPerez\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ooop.wma",
+        "source": "C:\\Users\\Carolina\\Desktop\\Final-IADM\\CarolinaPerez\\app\\src\\main\\res\\raw\\ooop.wma"
     }
 ]
